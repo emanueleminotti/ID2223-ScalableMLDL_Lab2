@@ -71,7 +71,7 @@ To make the model accessible on standard hardware (CPU-only environments), we me
 
 The final application is hosted on **Hugging Face Spaces**. It features a user-friendly Chat Interface where users can ask questions about their pets' health.
 
-👉 **Try the VetAI Assistant here:** [LINK_TO_YOUR_HUGGING_FACE_SPACE]
+👉 **Try the VetAI Assistant here:** https://huggingface.co/spaces/stromano02/Iris
 
 ---
 
